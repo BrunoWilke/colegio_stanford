@@ -6,7 +6,7 @@ que se fertilizam mutuamente com inovações que mudaram o mundo.
 
 ## 🚀 Começando
 
-O mais novo site do [Colégio Stanford]() permitirá a você conhecer um pouco da nossa história, observar nossa infraestrutura, se harmonizar com nossos princípios e se encantar com nossos métodos.
+O mais novo site do [Colégio Stanford](https://brunowilke.github.io/colegio_stanford) permitirá a você conhecer um pouco da nossa história, observar nossa infraestrutura, se harmonizar com nossos princípios e se encantar com nossos métodos.
 Não perca tempo e matricule-se já para experimentar o melhor que uma instituição de ensino tem a oferecer ou matricule seu filho/filha e garanta que ele/ela tenha um futuro promissor e qualidade de vida excepcional.<br />
 Você também pode entrar em contato conosco nas nossas redes socias ou por meio do formulário de contato que se encontra no nosso site.
 
@@ -15,7 +15,7 @@ Você também pode entrar em contato conosco nas nossas redes socias ou por meio
 Do que você preisa para acessar o no site?<br /> 
 Nada! Isso mesmo, nada!<br />
 Não precisa fazer download de documentos suspeitos, instalar aplicativos pesados, fazer um cadastro demorado ou informar os dados da sua conta bancária 😄.<br />
-Ta esperando o que? Acesse agora o nosso site clicando neste link -> [Colégio Stanford]()<br />
+Ta esperando o que? Acesse agora o nosso site clicando neste link -> [Colégio Stanford](https://brunowilke.github.io/colegio_stanford)<br />
 
 ## 🖇️ Colaborando
 
