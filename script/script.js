@@ -11,9 +11,9 @@ async function injectContent(){
 
 
 function activeLink(){
-    let url = Location.href;
+    let url = location.href;
     let view = url.split('=')
-    let sessao = (view[1] != undefined) ? view[1] : 'inicio';
+    let sessao = (view[1] != undefined) ? view[1] : 'home';
     document.getElementById(sessao).className += ' active';
 }
 
