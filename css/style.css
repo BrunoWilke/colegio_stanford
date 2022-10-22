@@ -186,29 +186,13 @@ h1.pgColegioH3 { /*Feito por Jardel da Silva*/
   text-align: center;
   color: white;
 }
-
+/* feito por Gustavo Alves */
 #ensinoMedio {
   padding: 0;
   width: 100%;
   background-color: #284b63;
   border: 0;
   color: white;
-  text-align: center;
-}
-
-.ensinoMedioCursos {
-  width: 800px;
-  display: inline-block;
-  margin-left: 50px;
-}
-.formContent{
-  padding: 20px 10px;
-}
-
-/* ----- FEITO POR GUSTAVO ALVES ----- */
-#ensinoMedio {
-  padding: 0;
-  width: 100%;
   text-align: center;
 }
 
@@ -257,3 +241,4 @@ h1.pgColegioH3 { /*Feito por Jardel da Silva*/
   margin-left: 10%;
   margin-bottom: 20px;
 }
+/* feito por Gustavo Alves */
